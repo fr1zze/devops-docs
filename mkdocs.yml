@@ -1,0 +1,14 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Шлапаков Максим Геннадьевич"
+repo_name: fr1zze/devops-docs
+repo_url: https://github.com/fr1zze/devops-docs
+
+theme:
+  name: mkdocs
+  locale: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
